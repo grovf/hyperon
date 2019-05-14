@@ -67,3 +67,5 @@ Regression
 
 <a name="hostdrivers"></a>
 # Host Drivers (SDK)
+
+Hyperon has the low level drivers which supports data movement between host and FPGA device both using direct IO or over DMA depending on the size of data. Host .dll hides all the complexity of dealing with data movement, optimizations and provides developer friendly API to effortlesly use Hyperon's library to integrate FPGA accelerated cores into different applications.  
