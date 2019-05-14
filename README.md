@@ -6,7 +6,7 @@ FPGA Cores and Host Drivers for Big Data Computing Acceleration
 # Table of Contents
 
 1. [Overview of hyperon big data computing platform](#overview)
-    - [Architecture](#architecture)
+2. [Architecture](#architecture)
 2. [Getting Started](#gettingstarted)
 3. [FPGA Cores (HDK)](#fpgacores)
 4. [Host Drivers (SDK)](#hostdrivers)
@@ -18,15 +18,15 @@ Hyperon is a big data computing platform which is consisting of two pars: high p
 
 
 <a name="architecture"></a>
-## Architecture
+# Architecture
 
 <a name="gettingstarted"></a>
-## Getting Started
+# Getting Started
 
 
 <a name="fpgacores"></a>
-## FPGA Cores (HDK)
+# FPGA Cores (HDK)
 
 
 <a name="hostdrivers"></a>
-## Host Drivers (SDK)
+# Host Drivers (SDK)
