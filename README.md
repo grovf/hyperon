@@ -35,23 +35,34 @@ For getting started with the Hyperon acceleration platform the AWS F1 instance i
 # FPGA Cores (HDK)
 
 Hyperon accelerator platform currently have the following FPGA IP cores:
+
 Text processing
+
 * Regex
 * Exact Word Search
 * Text Similarity Matching
+
 Array Processing
+
 * Sort
+
 Hashing
+
 * Murmur3 32bit
 * CRC
 * MD5
+
 Data Compression
+
 * LZ
+
 Linear Algebra
+
 * Matrix Transpose
 * Dot Product
 * Norm Square
 * Matrix Multiply
+
 Regression
 
 <a name="hostdrivers"></a>
