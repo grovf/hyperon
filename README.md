@@ -19,7 +19,13 @@ Hyperon is a big data computing platform which is consisting of two pars: high p
 
 <a name="architecture"></a>
 # Architecture
+Hyperon takes care of the deploying FPGA cores generate the host .dll which interacts with the IP and handles also all the communication between host and FPGA over DMA or over direct IO depending on the size of the data being transfered.
+
+Hyperon simplified architecture is shown below.
+
 <img src="docs/img/hyperon_arch_simple.png">
+
+
 <a name="gettingstarted"></a>
 # Getting Started
 
