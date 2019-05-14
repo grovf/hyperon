@@ -19,7 +19,7 @@ Hyperon is a big data computing platform which is consisting of two pars: high p
 
 <a name="architecture"></a>
 # Architecture
-
+<img src="docs/img/hyperon_arch_simple.png">
 <a name="gettingstarted"></a>
 # Getting Started
 
