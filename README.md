@@ -29,10 +29,30 @@ Hyperon simplified architecture is shown below.
 <a name="gettingstarted"></a>
 # Getting Started
 
+For getting started with the Hyperon acceleration platform the AWS F1 instance is needed for on cloud deployment or Alveo U200 board for the on premis deployment.
 
 <a name="fpgacores"></a>
 # FPGA Cores (HDK)
 
+Hyperon accelerator platform currently have the following FPGA IP cores:
+Text processing
+* Regex
+* Exact Word Search
+* Text Similarity Matching
+Array Processing
+* Sort
+Hashing
+* Murmur3 32bit
+* CRC
+* MD5
+Data Compression
+* LZ
+Linear Algebra
+* Matrix Transpose
+* Dot Product
+* Norm Square
+* Matrix Multiply
+Regression
 
 <a name="hostdrivers"></a>
 # Host Drivers (SDK)
